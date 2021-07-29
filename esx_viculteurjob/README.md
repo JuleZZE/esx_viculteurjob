@@ -17,10 +17,10 @@ Si vous souhaitez modifier ou ajouter quelque chose au script s'il vous plaît c
 2) Copier le référentiel
 3) Importez fr_esx_vigneronjob.sql dans votre base de données
 
-4) Ajoutez ceci dans votre server.cfg :
+4) Ajoutez ceci dans votre server.cfg : 
 
 ```
-start esx_vigneronjob
+start esx_viculteurjob
 ```
 
 5) Si vous voulez la gestion des joueurs, vous devez définir Config.EnablePlayerManagement sur true dans config.lua
