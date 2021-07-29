@@ -15,7 +15,7 @@ Si vous souhaitez modifier ou ajouter quelque chose au script s'il vous plaît c
 
 1) CD dans votre dossier resources/[esx]
 2) Copier le référentiel
-3) Importez fr_esx_vigneronjob.sql dans votre base de données
+3) Importez fr_esx_viculteurjob.sql dans votre base de données
 
 4) Ajoutez ceci dans votre server.cfg : 
 
